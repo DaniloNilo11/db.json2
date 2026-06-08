@@ -1,0 +1,12 @@
+[
+  {"nome": "Ana Lima", "anoNascimento": 1990, "altura": 1.65, "massa": 60.0},
+  {"nome": "Carlos Silva", "anoNascimento": 1985, "altura": 1.80, "massa": 85.0},
+  {"nome": "Maria Santos", "anoNascimento": 1992, "altura": 1.70, "massa": 68.0},
+  {"nome": "Pedro Oliveira", "anoNascimento": 1988, "altura": 1.75, "massa": 78.0},
+  {"nome": "Fernanda Costa", "anoNascimento": 1995, "altura": 1.60, "massa": 55.0},
+  {"nome": "Lucas Mendes", "anoNascimento": 1991, "altura": 1.82, "massa": 90.0},
+  {"nome": "Julia Souza", "anoNascimento": 1993, "altura": 1.68, "massa": 63.0},
+  {"nome": "Rafael Alves", "anoNascimento": 1987, "altura": 1.78, "massa": 82.0},
+  {"nome": "Camila Rocha", "anoNascimento": 1996, "altura": 1.62, "massa": 57.0},
+  {"nome": "Bruno Ferreira", "anoNascimento": 1989, "altura": 1.76, "massa": 80.0}
+]
