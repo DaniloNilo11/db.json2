@@ -1,65 +1,12 @@
 [
-  {
-    "id": 1,
-    "nomeAluno": "João Silva",
-    "quantidadeQuestionarios": 3,
-    "respostas": [
-      ["V", "F", "V", "F", "V"],
-      ["F", "V", "F", "V", "F"],
-      ["V", "V", "F", "V", "V"]
-    ],
-    "respostaCorreta": ["V", "F", "V", "F", "V"]
-  },
-  {
-    "id": 2,
-    "nomeAluno": "Maria Oliveira",
-    "quantidadeQuestionarios": 2,
-    "respostas": [
-      ["V", "V", "F", "F", "V"],
-      ["F", "F", "V", "V", "F"]
-    ],
-    "respostaCorreta": ["V", "V", "F", "F", "V"]
-  },
-  {
-    "id": 3,
-    "nomeAluno": "Carlos Santos",
-    "quantidadeQuestionarios": 4,
-    "respostas": [
-      ["V", "F", "V", "V", "F"],
-      ["F", "V", "F", "F", "V"],
-      ["V", "V", "V", "F", "F"],
-      ["F", "F", "F", "V", "V"]
-    ],
-    "respostaCorreta": ["V", "F", "V", "V", "F"]
-  },
-  {
-    "id": 4,
-    "nomeAluno": "Ana Costa",
-    "quantidadeQuestionarios": 1,
-    "respostas": [
-      ["V", "F", "F", "V", "V"]
-    ],
-    "respostaCorreta": ["V", "F", "F", "V", "V"]
-  },
-  {
-    "id": 5,
-    "nomeAluno": "Pedro Mendes",
-    "quantidadeQuestionarios": 3,
-    "respostas": [
-      ["F", "V", "V", "F", "V"],
-      ["V", "F", "F", "V", "F"],
-      ["V", "V", "F", "F", "V"]
-    ],
-    "respostaCorreta": ["V", "F", "V", "F", "V"]
-  },
-  {
-    "id": 6,
-    "nomeAluno": "Fernanda Lima",
-    "quantidadeQuestionarios": 2,
-    "respostas": [
-      ["V", "V", "F", "V", "F"],
-      ["F", "F", "V", "F", "V"]
-    ],
-    "respostaCorreta": ["V", "V", "F", "V", "F"]
-  }
+  {"nome": "Ana Lima", "anoNascimento": 1990, "altura": 1.65, "massa": 60.0},
+  {"nome": "Carlos Silva", "anoNascimento": 1985, "altura": 1.80, "massa": 85.0},
+  {"nome": "Maria Santos", "anoNascimento": 1992, "altura": 1.70, "massa": 68.0},
+  {"nome": "Pedro Oliveira", "anoNascimento": 1988, "altura": 1.75, "massa": 78.0},
+  {"nome": "Fernanda Costa", "anoNascimento": 1995, "altura": 1.60, "massa": 55.0},
+  {"nome": "Lucas Mendes", "anoNascimento": 1991, "altura": 1.82, "massa": 90.0},
+  {"nome": "Julia Souza", "anoNascimento": 1993, "altura": 1.68, "massa": 63.0},
+  {"nome": "Rafael Alves", "anoNascimento": 1987, "altura": 1.78, "massa": 82.0},
+  {"nome": "Camila Rocha", "anoNascimento": 1996, "altura": 1.62, "massa": 57.0},
+  {"nome": "Bruno Ferreira", "anoNascimento": 1989, "altura": 1.76, "massa": 80.0}
 ]
