@@ -1,53 +1,12 @@
 [
-  {
-    "nome": "Zeus",
-    "poder": 100,
-    "categoria": "Céu e Trovão"
-  },
-  {
-    "nome": "Poseidon",
-    "poder": 95,
-    "categoria": "Mares e Oceanos"
-  },
-  {
-    "nome": "Hades",
-    "poder": 93,
-    "categoria": "Submundo"
-  },
-  {
-    "nome": "Ares",
-    "poder": 88,
-    "categoria": "Guerra"
-  },
-  {
-    "nome": "Atena",
-    "poder": 90,
-    "categoria": "Sabedoria"
-  },
-  {
-    "nome": "Apolo",
-    "poder": 87,
-    "categoria": "Sol e Música"
-  },
-  {
-    "nome": "Ártemis",
-    "poder": 85,
-    "categoria": "Caça e Lua"
-  },
-  {
-    "nome": "Hefesto",
-    "poder": 82,
-    "categoria": "Fogo e Forja"
-  },
-  {
-    "nome": "Hermes",
-    "poder": 80,
-    "categoria": "Mensageiro dos Deuses"
-  },
-  {
-    "nome": "Deméter",
-    "poder": 84,
-    "categoria": "Agricultura e Colheita"
-  }
-
+  {"nome": "Zeus","poder": 100,"categoria": "Céu e Trovão"},
+  {"nome": "Poseidon","poder": 95,"categoria": "Mares e Oceanos"},
+  {"nome": "Hades","poder": 93,"categoria": "Submundo"},
+  {"nome": "Ares","poder": 88,"categoria": "Guerra"},
+  {"nome": "Atena","poder": 90,"categoria": "Sabedoria"},
+  {"nome": "Apolo","poder": 87,"categoria": "Sol e Música"},
+  {"nome": "Ártemis","poder": 85,"categoria": "Caça e Lua"},
+  {"nome": "Hefesto","poder": 82,"categoria": "Fogo e Forja"},
+  {"nome": "Hermes","poder": 80,"categoria": "Mensageiro dos Deuses"},
+  {"nome": "Deméter","poder": 84,"categoria": "Agricultura e Colheita"}
 ]
